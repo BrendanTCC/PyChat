@@ -6,7 +6,7 @@ print("Brendan's weird lil Python chat program thing v0.1.8 ALPHA")
 print("(c) 2019 Brendan J. Webb")
 print("")
 time.sleep(.100)
-os.system("cls")
+os.system("cls")    
 print("one moment...")
 time.sleep(5)
 os.system("cls")
@@ -23,6 +23,9 @@ else:
 d = input()
 if d == "great":
         print(d + "? Oh golly," , n + "! That's amazing! Have a great day, " , n + "!")
+        time.sleep(1)
+        print("EOF")
+        time.sleep(3)
 else:
     if d == "bad":
         print(d + "? " + d + "?! I wish i could help you bud, but I'm only a program.")
