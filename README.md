@@ -6,7 +6,8 @@ Brendan's little chat program where you can chat with the program itself. *now w
 
 ## License
 `who cares about licenses? -brendantcc :p`
-`Copyright (C) 2019 Brendan Webb & Anton McClure. All rights reserved :p`
+
+***Copyright (C) 2019 Brendan Webb & Anton McClure. All rights reserved :p***
 
  This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as  published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
